@@ -1,0 +1,11 @@
+model,train_scores,cv_scores,test_scores
+DummyClassifier,0.101533,0.10035,0.1023
+GaussianNB,0.5649,0.561767,0.5558
+KNeighborsClassifier,0.981917,0.969283,0.9688
+LinearSVC,0.926283,0.910767,0.9182
+SVC,0.989917,0.9769329999999999,0.9792
+LogisticRegression,0.935067,0.9197,0.9258
+DecisionTreeClassifier,1.0,0.866267,0.8773
+RandomForestClassifier,1.0,0.966417,0.9699
+ExtraTreesClassifier,1.0,0.968733,0.9729
+MLPClassifier,1.0,0.974533,0.98
